@@ -1,5 +1,5 @@
 # fitness_app_flu
-
+ this app to doing some exercises
 
 ## Getting Started
 
