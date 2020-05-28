@@ -1,6 +1,5 @@
 # fitness_app_flu
 
-A new Flutter application.
 
 ## Getting Started
 
