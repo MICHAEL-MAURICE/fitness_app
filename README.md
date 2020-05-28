@@ -1,15 +1,9 @@
 # fitness_app_flu
  this app to doing some exercises
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/52583744/83102393-a4f07180-a0b4-11ea-96cd-94eb2d98f951.jpeg)
+![2](https://user-images.githubusercontent.com/52583744/83102394-a6219e80-a0b4-11ea-92a8-72eefbaed42b.jpeg)
+![3](https://user-images.githubusercontent.com/52583744/83102395-a6219e80-a0b4-11ea-8a53-daac1c1ab076.jpeg)
+![4](https://user-images.githubusercontent.com/52583744/83102397-a6ba3500-a0b4-11ea-9438-9acc5e656736.jpeg)
+![5](https://user-images.githubusercontent.com/52583744/83102400-a752cb80-a0b4-11ea-88cb-5061f4d7ab4c.jpeg)
+![6](https://user-images.githubusercontent.com/52583744/83102401-a7eb6200-a0b4-11ea-939b-f4c2cdaf94a5.jpeg)
